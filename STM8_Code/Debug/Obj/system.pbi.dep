@@ -1,0 +1,16 @@
+system.pbi: D:\1.\ DEN\ BAN\ CAM\ UNG\STM8_Code\USER\UART.h \
+  D:\1.\ DEN\ BAN\ CAM\ UNG\STM8_Code\USER\mcu_api.h \
+  D:\1.\ DEN\ BAN\ CAM\ UNG\STM8_Code\USER\system.h \
+  D:\1.\ DEN\ BAN\ CAM\ UNG\STM8_Code\USER\protocol.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\ysizet.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\ycheck.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\string.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\ystdio.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\DLib_Threads.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\yvals.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\xencoding_limits.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\DLib_Product.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\DLib_Defaults.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\stdio.h \
+  D:\1.\ DEN\ BAN\ CAM\ UNG\STM8_Code\USER\wifi.h \
+  D:\1.\ DEN\ BAN\ CAM\ UNG\STM8_Code\USER\system.c

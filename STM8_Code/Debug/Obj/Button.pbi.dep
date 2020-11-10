@@ -1,0 +1,43 @@
+Button.pbi: \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\stdio.h \
+  D:\1.\ DEN\ BAN\ CAM\ UNG\STM8_Code\USER\RD_LED_Ctr.h \
+  D:\1.\ DEN\ BAN\ CAM\ UNG\STM8_Code\USER\mcu_api.h \
+  D:\1.\ DEN\ BAN\ CAM\ UNG\STM8_Code\USER\system.h \
+  D:\1.\ DEN\ BAN\ CAM\ UNG\STM8_Code\USER\protocol.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\ysizet.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\ycheck.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\string.h \
+  D:\1.\ DEN\ BAN\ CAM\ UNG\STM8_Code\USER\wifi.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\ystdio.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\DLib_Threads.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\yvals.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\xencoding_limits.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\DLib_Product.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\DLib_Defaults.h \
+  D:\1.\ DEN\ BAN\ CAM\ UNG\STM8_Code\USER\UART.h \
+  D:\1.\ DEN\ BAN\ CAM\ UNG\STM8_Code\USER\Delay.h \
+  D:\1.\ DEN\ BAN\ CAM\ UNG\STM8_Code\USER\LED.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\intrinsics.h \
+  D:\1.\ DEN\ BAN\ CAM\ UNG\STM8_Code\STM8S_StdPeriph_Driver\inc\stm8s.h \
+  D:\1.\ DEN\ BAN\ CAM\ UNG\STM8_Code\STM8S_StdPeriph_Driver\inc\stm8s_wwdg.h \
+  D:\1.\ DEN\ BAN\ CAM\ UNG\STM8_Code\STM8S_StdPeriph_Driver\inc\stm8s_uart3.h \
+  D:\1.\ DEN\ BAN\ CAM\ UNG\STM8_Code\STM8S_StdPeriph_Driver\inc\stm8s_uart1.h \
+  D:\1.\ DEN\ BAN\ CAM\ UNG\STM8_Code\STM8S_StdPeriph_Driver\inc\stm8s_tim4.h \
+  D:\1.\ DEN\ BAN\ CAM\ UNG\STM8_Code\STM8S_StdPeriph_Driver\inc\stm8s_tim3.h \
+  D:\1.\ DEN\ BAN\ CAM\ UNG\STM8_Code\STM8S_StdPeriph_Driver\inc\stm8s_tim2.h \
+  D:\1.\ DEN\ BAN\ CAM\ UNG\STM8_Code\STM8S_StdPeriph_Driver\inc\stm8s_tim1.h \
+  D:\1.\ DEN\ BAN\ CAM\ UNG\STM8_Code\STM8S_StdPeriph_Driver\inc\stm8s_spi.h \
+  D:\1.\ DEN\ BAN\ CAM\ UNG\STM8_Code\STM8S_StdPeriph_Driver\inc\stm8s_rst.h \
+  D:\1.\ DEN\ BAN\ CAM\ UNG\STM8_Code\STM8S_StdPeriph_Driver\inc\stm8s_iwdg.h \
+  D:\1.\ DEN\ BAN\ CAM\ UNG\STM8_Code\STM8S_StdPeriph_Driver\inc\stm8s_itc.h \
+  D:\1.\ DEN\ BAN\ CAM\ UNG\STM8_Code\STM8S_StdPeriph_Driver\inc\stm8s_i2c.h \
+  D:\1.\ DEN\ BAN\ CAM\ UNG\STM8_Code\STM8S_StdPeriph_Driver\inc\stm8s_gpio.h \
+  D:\1.\ DEN\ BAN\ CAM\ UNG\STM8_Code\STM8S_StdPeriph_Driver\inc\stm8s_flash.h \
+  D:\1.\ DEN\ BAN\ CAM\ UNG\STM8_Code\STM8S_StdPeriph_Driver\inc\stm8s_exti.h \
+  D:\1.\ DEN\ BAN\ CAM\ UNG\STM8_Code\STM8S_StdPeriph_Driver\inc\stm8s_clk.h \
+  D:\1.\ DEN\ BAN\ CAM\ UNG\STM8_Code\STM8S_StdPeriph_Driver\inc\stm8s_beep.h \
+  D:\1.\ DEN\ BAN\ CAM\ UNG\STM8_Code\STM8S_StdPeriph_Driver\inc\stm8s_awu.h \
+  D:\1.\ DEN\ BAN\ CAM\ UNG\STM8_Code\STM8S_StdPeriph_Driver\inc\stm8s_adc2.h \
+  D:\1.\ DEN\ BAN\ CAM\ UNG\STM8_Code\USER\stm8s_conf.h \
+  D:\1.\ DEN\ BAN\ CAM\ UNG\STM8_Code\USER\Button.h \
+  D:\1.\ DEN\ BAN\ CAM\ UNG\STM8_Code\USER\Button.c
